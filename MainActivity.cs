@@ -20,6 +20,7 @@ namespace sadfresfrgfre
 
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
+			Console.WriteLine ("gfshgdhghfdf");
 
 			// Get our button from the layout resource,
 			// and attach an event to it
